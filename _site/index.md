@@ -1,6 +1,7 @@
 ---
-title: JAMStack with Eleventy
+title: Welcome
 date: Created
+layout: pageTemplates/base 
 tags:
   - home
   - welcome
